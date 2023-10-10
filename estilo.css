@@ -1,0 +1,39 @@
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1.6rem;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    text-align: left;
+    color: #201d1d;
+}
+.section {
+    margin-bottom: 20px;
+    color: chocolate;
+}
+.section h2 {
+    font-size: 1.2em;
+    color: #555;
+}
+.section p {
+    font-size: 1em;
+}
+.foto{
+    margin-left:10px;
+    margin-top: 20px;
+}
+
+
+      
+      
+   
